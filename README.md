@@ -9,7 +9,6 @@ Welcome to the **LeetCode Problems** repository of the "Language is Simple" orga
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
 5. [License](#license)
-6. [Contact](#contact)
 
 ## Introduction
 
