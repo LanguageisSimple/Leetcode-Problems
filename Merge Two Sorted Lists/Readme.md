@@ -42,6 +42,10 @@ The solution involves merging two sorted lists into one sorted list. The provide
 4. **Printing the Result**:
     - The merged and sorted list is printed.
 
+### Code Explanation
+
+The code has been explained line by line using comments in the `Merge_Two_Sorted_Lists.cpp` file.
+
 ### How to Use
 
 1. **Run the Script**:
