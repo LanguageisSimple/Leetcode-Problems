@@ -44,7 +44,7 @@ The solution involves merging two sorted lists into one sorted list. The provide
 
 ### Code Explanation
 
-The code has been explained line by line using comments in the `Merge_Two_Sorted_Lists.cpp` file.
+The code has been explained line by line using comments in the `Merge_Two_Sorted_Lists.py` file.
 
 ### How to Use
 
